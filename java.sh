@@ -1,7 +1,7 @@
 #! /bin/bash
 
-java five.java
-java four.java
 java one.java
-java three.java
 java two.java
+java three.java
+java four.java
+java five.java
